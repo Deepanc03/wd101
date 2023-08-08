@@ -54,5 +54,5 @@ const revEntries = () => {
   userForm.addEventListener("submit", uploadForm);
   
   disEntries();
-  
+
 
